@@ -1,14 +1,11 @@
+<link rel="stylesheet" href="https://github.com/akhilsadam/akhilsadam/blob/main/img/styles.css?raw=true">
+
 <div class="wrapper">
   <div class="postthumb">
     <a>
-      <img src="http://lorempixel.com/222/220/sports">
+      <img src="https://github.com/akhilsadam/akhilsadam/blob/main/img/deserteye.2.q.png?raw=true">
     </a>
     <div class="title">
-      <h2>Sample Project</h2>
-      <p>
-          Nam tristique dignissim tincidunt. Praesent
-          mollis, velit ac.
-      </p>
     </div>
   </div>
 <div>
