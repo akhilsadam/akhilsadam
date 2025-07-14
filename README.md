@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
+
 <link rel="stylesheet" href="https://github.com/akhilsadam/akhilsadam/blob/main/img/styles.css?raw=true">
 
 <div class="wrapper">
@@ -10,6 +21,8 @@
   </div>
 <div>
 
+</body>
+</html>
 
 
 ![](https://raw.githubusercontent.com/akhilsadam/github-stats/master/generated/overview.svg#gh-dark-mode-only)
