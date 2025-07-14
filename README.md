@@ -1,6 +1,6 @@
-<div style="width: 100%;z-index:-1">
+<!-- <div style="width: 100%;">
   <img src="img/img.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+</div> -->
 
 ![](https://raw.githubusercontent.com/akhilsadam/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/akhilsadam/github-stats/master/generated/overview.svg#gh-light-mode-only)
